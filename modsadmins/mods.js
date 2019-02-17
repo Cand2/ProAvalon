@@ -6,6 +6,7 @@ var modsArray = [
     "bocaben",
     "maddie",
     "morningcatt"
+    "modme"
 ];
 
 module.exports = modsArray;
