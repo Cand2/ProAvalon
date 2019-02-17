@@ -24,7 +24,7 @@ Hey there!
 
 <br><br>
 
-There were some major fixes to the server, please let me know if there are any crashes/abnormalities. Thanks.
+There were a few important updates to the website, please notify me if you notice any crashes or abnormalities. Thanks.
 
 `;
 
