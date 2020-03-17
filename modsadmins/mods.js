@@ -1,11 +1,6 @@
 
 
 //all in lower case
-var modsArray = [
-    "pronub",
-    "bocaben",
-    "maddie",
-    "morningcatt"
-];
+//not necessary anymore
 
 module.exports = modsArray;
